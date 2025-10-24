@@ -17,7 +17,8 @@
 
 
 <!--START_SECTION:waka-->
-[![Ikerichu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ikerichu)](https://wakatime.com/@73cfe0da-e181-4650-a59e-d58c870884ae)
+![Ikerichu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikerichu&show_icons=true&theme=tokyonight)
+
 
 
 
