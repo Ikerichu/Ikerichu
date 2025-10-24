@@ -17,7 +17,8 @@
 
 
 <!--START_SECTION:waka-->
-[![Ikerichu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ikerichu)](https://wakatime.com/@Ikerichu)
+![Coding Time](https://wakatime.com/badge/user/Ikerichu.svg)
+
 
 
  
