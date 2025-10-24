@@ -17,7 +17,7 @@
 
 
 <!--START_SECTION:waka-->
-![Coding Time](https://wakatime.com/badge/user/Ikerichu.svg)
+![Coding Time](https://wakatime.com/badge/user/@73cfe0da-e181-4650-a59e-d58c870884ae.svg)
 
 
 
