@@ -17,7 +17,7 @@
 
 
 <!--START_SECTION:waka-->
-![Ikerichu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikerichu&show_icons=true&theme=tokyonight)
+
 
 
 
@@ -25,17 +25,9 @@
 
  
 <!--END_SECTION:waka-->
-***
-**♨️ &nbsp;DSA Analytics**
 
-<p align="center"> <img src="https://leetcard.jacoblin.cool/Ikerichu?theme=dark&font=Noto%20Sans&ext=contest" 
-         alt="Leetcode stats" height="350"/></p>
-         
-***
 
-**🛠 &nbsp;Tech Stack**
-
-- Languages: &nbsp;
+- Languages: &nbsp;***
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
