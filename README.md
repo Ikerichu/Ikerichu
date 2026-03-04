@@ -10,11 +10,11 @@
 **⚙️ &nbsp;GitHub Analytics**
 <p align="center">
   <img 
-    src="https://github-readme-stats-6zcsbthj7-ikerichus-projects.vercel.app/api?username=Ikerichu&show_icons=true&theme=dark&hide_border=true" 
+    src="https://github-readme-stats-virid-nine-29.vercel.app/api?username=Ikerichu&show_icons=true&theme=dark&hide_border=true" 
     height="180"
   />
   <img 
-    src="https://github-readme-stats-6zcsbthj7-ikerichus-projects.vercel.app/api/top-langs/?username=Ikerichu&theme=dark&hide_border=true&layout=compact" 
+    src="https://github-readme-stats-virid-nine-29.vercel.app/api/top-langs/?username=Ikerichu&theme=dark&hide_border=true&layout=compact" 
     height="180"
   />
 </p>
