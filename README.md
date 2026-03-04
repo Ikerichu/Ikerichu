@@ -3,7 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Java+Developer;JavaScript+Enthusiast;Backend+Builder;Always+Learning+🚀" />
+  <img src="https://img.shields.io/badge/Java_Developer-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend_Builder-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Always_Learning-1f6feb?style=for-the-badge"/>
 </p>
 
 <p align="center">
