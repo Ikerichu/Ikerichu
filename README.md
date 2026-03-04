@@ -1,66 +1,63 @@
-<p align="center"> <h1 align="center"> Hi, I am Iker Moya <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /></h1> </p>
+<h1 align="center">
+  Hi 👋, I'm Iker Moya
+</h1>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ikerichu&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22Ikerichu" /> </p>
-
-***
-**⚙️ &nbsp;GitHub Analytics**
 <p align="center">
-  <img 
-    src="https://github-readme-stats-virid-nine-29.vercel.app/api?username=Ikerichu&show_icons=true&theme=dark&hide_border=true" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats-virid-nine-29.vercel.app/api/top-langs/?username=Ikerichu&theme=dark&hide_border=true&layout=compact" 
-    height="180"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Java+Developer;JavaScript+Enthusiast;Backend+Builder;Always+Learning+🚀" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ikerichu&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
-<!--START_SECTION:waka-->
+---
 
+## ⚙️ GitHub Analytics
 
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Ikerichu&theme=dark&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ikerichu&theme=github_dark" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ikerichu&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ikerichu&theme=github_dark" />
+</p>
 
+---
 
- 
-<!--END_SECTION:waka-->
+## 🧠 Tech Stack
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Spring-333333?style=for-the-badge&logo=spring"/>
+  <img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js"/>
+</p>
 
-- Languages: &nbsp;
-  <br><br>
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  
+---
 
+## 📊 Contribution Graph
 
-***
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ikerichu&theme=github-dark&hide_border=true&area=true"/>
+</p>
 
-<!---  🔭 I’m currently building backend in Java.-->
+---
 
--  🌱 I’m currently learning. I have engaged myself in projects in the domain of 4Geeks. You can find my work [here](https://github.com/Ikerichu?tab=repositories).
+## 🚀 About Me
 
--  💬 Ask me about Java, Javascript & Algorithms.
+- 🌱 Currently improving my backend skills
+- 💬 Ask me about **Java, JavaScript & Algorithms**
+- ⚡ Fun fact: While you blinked, a bit was flipped somewhere in the world.
 
--  ⚡ Fun fact: While you close your eyes, this fact is decrypted. 😂
-
-<!-- -  📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-Rahul_Kashyap-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
-[![Twitter](https://img.shields.io/badge/-imkashyap_-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/imkashyap_)
-[![Instagram](https://img.shields.io/badge/-imkashyap__-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/imkashyap__/)
-[![Gmail](https://img.shields.io/badge/-Rahul_Kashyap-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:rahulkashyap4041@gmail.com) -->
-
-***
-
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=imkashyap&theme=react-dark&hide_border=true&area=true) -->
+---
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### ⭐ If you like my work, consider starring a repo!
 
 </div>
