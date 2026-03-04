@@ -8,12 +8,26 @@
 
 ***
 **⚙️ &nbsp;GitHub Analytics**
-<table style="width:100%">
-  <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=Ikerichu&show_icons=true&theme=dark&locale=en&hide_border=true" alt="Ikerichu" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikerichu&theme=dark&hide_border=true&layout=compact"></td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=Ikerichu&show_icons=true&theme=dark&locale=en&hide_border=true" 
+          alt="GitHub Stats" 
+          height="180"
+        />
+      </td>
+      <td align="center">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikerichu&theme=dark&hide_border=true&layout=compact" 
+          alt="Top Languages" 
+          height="180"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <!--START_SECTION:waka-->
