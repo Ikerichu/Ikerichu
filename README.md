@@ -40,6 +40,28 @@
   <img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-333333?style=for-the-badge&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-333333?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-333333?style=for-the-badge&logo=jquery"/>
+  <img src="https://img.shields.io/badge/React_Query-333333?style=for-the-badge&logo=react-query"/>
+  <img src="https://img.shields.io/badge/React_Router-333333?style=for-the-badge&logo=react-router"/>
+  <img src="https://img.shields.io/badge/React_Hook_Form-333333?style=for-the-badge&logo=react-hook-form"/>
+  <img src="https://img.shields.io/badge/Vite-333333?style=for-the-badge&logo=vite"/>
+  <img src="https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-333333?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma"/>
+  <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/ESLint-333333?style=for-the-badge&logo=eslint"/>
+  <img src="https://img.shields.io/badge/Postman-333333?style=for-the-badge&logo=postman"/>
+  <img src="https://img.shields.io/badge/Swagger-333333?style=for-the-badge&logo=swagger"/>
+  <img src="https://img.shields.io/badge/Trello-333333?style=for-the-badge&logo=trello"/>
 </p>
 
 ---
