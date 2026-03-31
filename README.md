@@ -9,9 +9,17 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ikerichu&label=Vistas+del+Perfil&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/profile-views/Ikerichu?label=Vistas%20del%20perfil&color=0e75b6&style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ikerichu&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikerichu&layout=compact&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ikerichu&theme=github-dark" />
+</p>
 ---
 
 ## ⚙️ Analíticas de GitHub
