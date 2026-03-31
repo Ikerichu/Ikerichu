@@ -8,28 +8,10 @@
   <img src="https://img.shields.io/badge/Always_Learning-1f6feb?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/profile-views/Ikerichu?label=Vistas%20del%20perfil&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ikerichu&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikerichu&layout=compact&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ikerichu&theme=github-dark" />
-</p>
----
-
 ## ⚙️ Analíticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Ikerichu&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ikerichu&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=Ikerichu&theme=github-dark" />
 </p>
 
 
